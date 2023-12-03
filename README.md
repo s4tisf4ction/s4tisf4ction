@@ -4,13 +4,13 @@
 
 <div id="badges" align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge  logo=linkedin  logoColor=white" alt="LinkedIn Badge" style="text-decoration:none;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge  logo=linkedin  logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=9819665730">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge  logo=whatsapp  logoColor=white" alt="WhatsApp Badge" style="text-decoration:none;"/>
+  <a href="https://api.whatsapp.com/send?phone=9819665730" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge  logo=whatsapp  logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="https://t.me/S4tisf4ction">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge  logo=telegram  logoColor=white" alt="Telegram Badge" style="text-decoration:none;"/>
+  <a href="https://t.me/S4tisf4ction" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge  logo=telegram  logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
@@ -68,4 +68,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+---
+
+### My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=s4tisf4ction&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+
 -->
