@@ -11,9 +11,7 @@
   <a href="https://t.me/S4tisf4ction">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge   logo=telegram   logoColor=white" alt="Telegram Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=s4tisf4ction&style=flat-square&color=blue" alt=""/>
 </div>
-
 <img src="https://komarev.com/ghpvc/?username=s4tisf4ction&style=flat-square&color=blue" alt=""/>
 
 <!--
