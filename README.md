@@ -18,7 +18,7 @@
   Hey there, I'm Georgy
 </h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=s4tisf4ction&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=s4tisf4ctioННН&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### About Me :
