@@ -1,20 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge logo=linkedin logoColor=white" alt="LinkedIn Badge"/>
+  <a href="" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge  logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=9819665730">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge logo=whatsapp logoColor=white" alt="WhatsApp Badge"/>
+  <a href="https://api.whatsapp.com/send?phone=9819665730" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge  logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="https://t.me/S4tisf4ction">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge logo=telegram logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/S4tisf4ction" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge  logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
 <h1 align="center">
-  hey there, I'm Georgy
+  Hey there, I'm Georgy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
