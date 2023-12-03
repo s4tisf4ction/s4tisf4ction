@@ -55,6 +55,13 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=s4tisf4ction&theme=discord-old-blurple&locale=ru)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4tisf4ction)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+
+
+
+
 <!--
 **s4tisf4ction/s4tisf4ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -68,7 +75,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 
 ---
