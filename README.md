@@ -5,7 +5,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge   logo=linkedin   logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://api.whatsapp.com/send? phone=9819665730">
+  <a href="https://api.whatsapp.com/send?phone=9819665730">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge   logo=whatsapp   logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="https://t.me/S4tisf4ction">
