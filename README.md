@@ -48,6 +48,11 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ![SQLLite](https://img.shields.io/badge/SQLLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
+
+### My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=s4tisf4ction&theme=discord-old-blurple&locale=ru)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4tisf4ction)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
