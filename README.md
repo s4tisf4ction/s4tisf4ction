@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge  logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge  logo=linkedin  logoColor=white" alt="LinkedIn Badge" style="text-decoration:none;"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=9819665730" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge  logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  <a href="https://api.whatsapp.com/send?phone=9819665730">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge  logo=whatsapp  logoColor=white" alt="WhatsApp Badge" style="text-decoration:none;"/>
   </a>
-  <a href="https://t.me/S4tisf4ction" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge  logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/S4tisf4ction">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge  logo=telegram  logoColor=white" alt="Telegram Badge" style="text-decoration:none;"/>
   </a>
 </div>
 
@@ -21,6 +21,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=s4tisf4ction&style=flat-square&color=blue" alt=""/>
 </div>
+
+### :woman_technologist: About Me :
+
+
+
 
 <!--
 **s4tisf4ction/s4tisf4ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
