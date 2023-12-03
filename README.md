@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge   logo=telegram   logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<a align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=s4tisf4ction&style=flat-square&color=blue" alt=""/>
-</a>
+</div>
 
 <!--
 **s4tisf4ction/s4tisf4ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
