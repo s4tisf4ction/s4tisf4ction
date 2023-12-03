@@ -12,13 +12,14 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge   logo=telegram   logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=s4tisf4ction&style=flat-square&color=blue" alt=""/>
-</div>
+
 <h1 align="center">
   hey there, I'm Georgy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=s4tisf4ction&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **s4tisf4ction/s4tisf4ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
