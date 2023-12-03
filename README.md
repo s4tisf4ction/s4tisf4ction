@@ -26,13 +26,13 @@
 
 I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I've completed a higher technical education program, in addition to receiving a diploma from professional retraining courses focused on backend development.
+- 🔭 I've completed a higher technical education program, in addition to receiving a diploma from professional retraining courses focused on backend development.
 
-- :seedling: Additionally, I read theory in Stepik courses and solve alogrythmic problems on Codewars
+- 🌱 Additionally, I read theory in Stepik courses and solve alogrythmic problems on Codewars
 
-- :zap: In my free time, I watch educational videos on computer science and other related fields
+- ⌚ In my free time, I watch educational videos on computer science and other related fields
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-S4tisf4ction-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/S4tisf4ction)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-S4tisf4ction-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/S4tisf4ction)
 
 
 <!--
